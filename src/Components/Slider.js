@@ -2,7 +2,7 @@ import React from "react";
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Carousel } from "react-bootstrap";
-import photo from '../1.jpg'
+import photo from '../3.jpg'
 
 export default function Slider(){
     return(

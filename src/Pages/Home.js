@@ -1,7 +1,7 @@
 import React from "react";
 import Slider from "../Components/Slider";
 import { Container, Row, Col, Card,Button } from "react-bootstrap";
-import image from "../1.jpg"
+import image from "../3.jpg"
 
 
 export function Home(){
